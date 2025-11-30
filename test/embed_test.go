@@ -1,4 +1,4 @@
-package learngolangembed
+package test
 
 import (
 	"embed"
